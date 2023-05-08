@@ -1,3 +1,4 @@
+@smoke
 @PER10-261
 Feature: Per Fleet Project Login Functionality
 

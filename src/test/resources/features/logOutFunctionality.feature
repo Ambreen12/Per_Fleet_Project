@@ -1,3 +1,4 @@
+@smoke
 @PER10-264
 Feature: Per Fleet Project Login out Functionality
   User Story:
